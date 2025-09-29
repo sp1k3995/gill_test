@@ -1,0 +1,9 @@
+{
+  "name": "NovaPulse10",
+  "symbol": "NovaPulse10",
+  "description": "NovaPulse10 – experimental Solana token.",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/Climate/image.png",
+  "attributes": [
+    { "trait_type": "generator", "value": "standalone-script" }
+  ]
+}
