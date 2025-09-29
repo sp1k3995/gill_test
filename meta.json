@@ -1,7 +1,7 @@
 {
-  "name": "NovaPull10",
-  "symbol": "NPull10",
-  "description": "NovaPull10 – experimental Solana token.",
+  "name": "NovaPull11",
+  "symbol": "NPull11",
+  "description": "NovaPull11 – experimental Solana token.",
   "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/Climate/image.png",
   "attributes": [
     { "trait_type": "generator", "value": "standalone-script" }
